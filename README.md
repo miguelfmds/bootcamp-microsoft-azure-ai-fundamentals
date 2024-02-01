@@ -175,7 +175,7 @@ Revise os gráficos que mostram o desempenho do modelo. O gráfico de **resíduo
 
 5. Revise os resultados do teste, que incluem um número previsto de aluguéis com base nos recursos de entrada - semelhante a este:
 
-   ~~~json
+~~~json
  {
   "Results": [
     356.9253888264152
