@@ -1,4 +1,8 @@
-# Utilizando o Vision Studio para identificar rostos e adicionar descrição em imagens
+<h1>
+    <a href="https://web.dio.me/track/microsoft-azure-ai-fundamentals?page=1&search=&tab=path/">
+     <img align="center" width="60px" src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png"></a>
+    <span> Utilizando o Vision Studio para identificar rostos e adicionar descrição às imagens</span>
+</h1>
 
 ## Detect faces in an image
 Através desse recurso, a IA identifica rostos contidos na imagem e os numera.
