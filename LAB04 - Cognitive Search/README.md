@@ -38,5 +38,14 @@ O desafio propõe que seja criada uma pesquisa que funcione juntamente com um se
 02 - Em seguida, vamos na opção "Criar"
 <img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/9ccc0d95-ecef-4cbc-bbe2-4eb1c692decf" width=""/>
 
-03 - Configure dessa maneira (se surgir alguma dúvida, consulte a documentação linkada acima) e clique em "Examinar"
+03 - Configure dessa maneira (se surgir alguma dúvida, consulte a documentação linkada acima), clique em "Examinar", avance e clique em "Criar"
 <img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/ce56441c-aeb2-4236-a351-155a191696f0" width=""/>
+
+## Quarta etapa: Permitindo acesso anônimo ao Blob:  
+
+Como nosso laboratório é apenas didático (com o objetivo de aprender os princípios da inteligência artificial com o Azure), precisamos permitir o acesso anônimo ao blob para simplificar e facilitar nossas implementações!
+
+01 - Após criar o armazenamento, entre no mesmo e navegue até a guia "Configurações" e clique em "Configuração", marcando as opções abaixo. Logo após, clique em "Salvar":
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/b32f74a4-d148-4fb4-b7e6-bfed3671b258" width=""/>
+
+## Quinta etapa: Criando o container: 
