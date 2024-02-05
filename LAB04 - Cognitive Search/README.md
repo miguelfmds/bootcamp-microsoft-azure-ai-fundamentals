@@ -29,3 +29,14 @@ O desafio propõe que seja criada uma pesquisa que funcione juntamente com um se
 
 02 - Aguarde implantação
 <img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/333a1f5b-6581-45c4-a554-863aa6cc1a7d" width=""/>
+
+## Terceira etapa: Criando o armazenamento (storage):  
+
+01 - Clique na opção "Contas de armazenamento"
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/fa3c11b7-0730-4820-852d-1c85115b04ec" width=""/>
+
+02 - Em seguida, vamos na opção "Criar"
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/9ccc0d95-ecef-4cbc-bbe2-4eb1c692decf" width=""/>
+
+03 - Configure dessa maneira (se surgir alguma dúvida, consulte a documentação linkada acima) e clique em "Examinar"
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/ce56441c-aeb2-4236-a351-155a191696f0" width=""/>
