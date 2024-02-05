@@ -49,3 +49,25 @@ Como nosso laboratório é apenas didático (com o objetivo de aprender os princ
 <img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/b32f74a4-d148-4fb4-b7e6-bfed3671b258" width=""/>
 
 ## Quinta etapa: Criando o container: 
+
+01 - Ainda dentro do armazenamento que foi criado, navegue até a aba "Armazenamento de dados" e selecione a opção "contêineres". E então, clique na opção "+Contêiner":
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/b2e7f1bf-9c60-4fd6-939b-7014939ae41c" width=""/>
+
+02 - Logo em seguida, preencha a aba "Nome" com "coffeereviews" e configure da maneira que está exposta na imagem abaixo:
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/55e76bc3-77e4-497d-b901-a3c6faf31e3f" width=""/>
+
+## Sexta etapa: Carregar o Blob: 
+
+01 - Selecione o contêiner que foi criado (nesse caso, "coffeereviews"):
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/d13ab3b8-7011-4dc6-8ba4-b489f3a778a8" width=""/>
+
+02 - Na nova página, vá na opção "Carregar": 
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/189984e5-8e0b-470d-aae2-37c4670e02d2" width=""/>
+
+03 - Faça o download dos arquivos na documentação linkada acima e, logo em seguida, faça o upload dos arquivos baixados:
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/30ccc47e-96a5-4804-8535-9ca96362326b" width=""/>
+
+## Sétima etapa: Importação e indexação dos dados: 
+
+01 - Voltamos para o AI Search, selecione o elemento criado e então clique na opção "Importar dados":
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/97cc7f87-5d97-4c48-9ed2-4cd3060daaa9" width=""/>
