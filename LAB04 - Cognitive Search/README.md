@@ -22,7 +22,7 @@ O desafio propõe que seja criada uma pesquisa que funcione juntamente com um se
 03 - Aguarde terminar a implantação
 <img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/333e8d97-a3d7-4b53-807b-b5b7ba89ed56" width=""/> 
 
-## Segunda etapa: Criando recurso do Azure AI Search:  
+## Segunda etapa: Criando recurso do Azure AI Services:  
 
 01 - Clique em "Serviços Cognitivos" e configure da maneira que já vimos anteriormente nos LAB's anteriores
 <img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/cce227fd-028c-4073-9e28-a8817d606fe9" width=""/>
