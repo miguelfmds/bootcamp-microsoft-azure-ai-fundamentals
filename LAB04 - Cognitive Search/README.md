@@ -103,3 +103,15 @@ OBS: segue o código
 ```
 search=locations:'Chicago'
 ```
+
+04 - O último código verifica as ocorrências com sentimento negativo, como podemos ver abaixo:
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/24f89169-cb44-42fe-8e7c-0609cf450102" width=""/>
+
+OBS: segue o código
+```
+search=sentiment:'negative' ( Consulta as ocorrencias com sentimento negativo )
+```
+
+## O que foi observado:  
+
+É impressionante o poder das ferramentas do Microsoft Azure! Facilitam a consulta em documentos, pesquisas e depoimentos, facilitando demais o processo de filtrar determinadas situações.
