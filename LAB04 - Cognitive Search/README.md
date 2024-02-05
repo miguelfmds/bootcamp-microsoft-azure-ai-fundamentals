@@ -84,3 +84,22 @@ Como nosso laboratório é apenas didático (com o objetivo de aprender os princ
 05 - Daqui para frente, recomendo que siga a [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) para facilitar a compreensão dos passos necessários! Vá até o passo 17 e então volte para continuarmos :)
 
 ## Última etapa: Consulta ao índice
+
+01 - Depois de importamos os dados, chegou o momento da última etapa. Vamos na opção "Gerenciador de pesquisa":
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/3993c801-c9f6-4b9a-903c-d16389500411" width=""/>
+
+02 - Logo em seguida, vamos utilizar um comando que vai verificar se a indexação foi feita corretamente e mostra os documentos:
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/756d5620-9ece-42e3-a05a-06483fdc0aba" width=""/>
+
+OBS: copie e cole o código abaixo
+```
+search=*&$count=true 
+```
+
+03 - Com outro código, verificamos as ocorrências que aconteceram em Chicago:
+<img align="right" src="https://github.com/miguelfmds/bootcamp-microsoft-azure-ai-fundamentals/assets/157380435/9c434260-ddf0-4c40-a6cb-6fa662e6f998" width=""/>
+
+OBS: segue o código
+```
+search=locations:'Chicago'
+```
